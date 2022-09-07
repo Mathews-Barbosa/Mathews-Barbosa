@@ -1,7 +1,7 @@
   <b id="msg">Olá Amigo, eu Sou o Matheus!<b>
   <div align="left">
-  <a href="https://github.com/Matheus-Barbosa">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Barbosa&show_icons=false&theme=dark&include_all_commits=false&count_private=false"/>
+  <a href="https://github.com/Mathews-Barbosa">
+  <img width="700em" src="https://github-readme-stats.vercel.app/api?username=Mathews-Barbosa&show_icons=false&theme=dracula&include_all_commits=false&count_private=false"/>
  
  </div>
 <div style="display: inline_block"><br>
