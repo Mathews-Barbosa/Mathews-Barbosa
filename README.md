@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning Flutter to develop on Android and IOS.
 
-- 📫 How to reach me **1tecnicoparainternet, https://wa.me/5545999464513**
+- 📫 How to reach me: **1tecnicoparainternet, https://wa.me/5545999464513**
 
 
 ##
