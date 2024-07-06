@@ -1,4 +1,4 @@
-  <b id="msg">Olá Amigo, eu Sou o Matheus!<b>
+  <b id="msg">Olá Amigo, eu Sou o Matheus! 🤙<b>
   <div align="left">
   <a href="https://github.com/Mathews-Barbosa">
   <img width="700em" src="https://github-readme-stats.vercel.app/api?username=Mathews-Barbosa&show_icons=false&theme=dracula&include_all_commits=false&count_private=false"/>
