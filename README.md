@@ -11,7 +11,7 @@
 ##
 <div align="center">
 
-  ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Barbosa&show_icons=true&theme=radical)
+ 
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Barbosa&layout=compact&langs_count=7&theme=merko"/>
 </div>
